@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+PyMuPDF
+python-docx
+pytest
+httpx
+sentence-transformers==6.2.0

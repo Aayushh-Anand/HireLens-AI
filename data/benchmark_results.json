@@ -1,0 +1,23 @@
+[
+  {
+    "model": "keyword_jaccard",
+    "examples": 12,
+    "pairwise_accuracy": 0.6667,
+    "average_score_margin": 0.102,
+    "evaluation_seconds": 0.0006
+  },
+  {
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "examples": 12,
+    "pairwise_accuracy": 1.0,
+    "average_score_margin": 0.428,
+    "evaluation_seconds": 0.6682
+  },
+  {
+    "model": "sentence-transformers/all-mpnet-base-v2",
+    "examples": 12,
+    "pairwise_accuracy": 1.0,
+    "average_score_margin": 0.4344,
+    "evaluation_seconds": 1.9538
+  }
+]

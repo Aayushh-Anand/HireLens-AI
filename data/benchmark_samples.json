@@ -1,0 +1,63 @@
+
+[
+  {
+    "requirement": "Build REST APIs using Python and FastAPI",
+    "positive_evidence": "Developed backend services in Python with FastAPI and REST endpoints.",
+    "negative_evidence": "Built responsive React interfaces using HTML, CSS and JavaScript."
+  },
+  {
+    "requirement": "Experience with SQL databases",
+    "positive_evidence": "Designed PostgreSQL tables and wrote SQL queries for reporting.",
+    "negative_evidence": "Created responsive web pages with React and Tailwind CSS."
+  },
+  {
+    "requirement": "Build and deploy machine learning models",
+    "positive_evidence": "Trained, evaluated and deployed classification models using scikit-learn.",
+    "negative_evidence": "Maintained application routes and authentication in a Node.js backend."
+  },
+  {
+    "requirement": "Experience with natural language processing",
+    "positive_evidence": "Built text classification and named entity recognition pipelines for NLP tasks.",
+    "negative_evidence": "Created dashboards and interactive charts for business reporting."
+  },
+  {
+    "requirement": "Use Docker for application deployment",
+    "positive_evidence": "Packaged the application in Docker containers and configured its runtime.",
+    "negative_evidence": "Used Git branches and pull requests to collaborate on source code."
+  },
+  {
+    "requirement": "Develop frontend applications using React",
+    "positive_evidence": "Built reusable React components and managed frontend application state.",
+    "negative_evidence": "Trained regression models and evaluated them using mean squared error."
+  },
+  {
+    "requirement": "Work with cloud platforms such as AWS",
+    "positive_evidence": "Deployed application services on AWS and configured cloud resources.",
+    "negative_evidence": "Created local Python scripts for data cleaning and exploratory analysis."
+  },
+  {
+    "requirement": "Build retrieval augmented generation systems",
+    "positive_evidence": "Implemented a RAG pipeline using document embeddings, vector retrieval and an LLM.",
+    "negative_evidence": "Built a conventional CRUD API backed by a relational database."
+  },
+  {
+    "requirement": "Write automated unit tests",
+    "positive_evidence": "Created automated unit tests with pytest to validate API behavior.",
+    "negative_evidence": "Designed page layouts and styled components using CSS."
+  },
+  {
+    "requirement": "Analyze data using pandas and NumPy",
+    "positive_evidence": "Used pandas and NumPy for data cleaning, transformations and numerical analysis.",
+    "negative_evidence": "Configured Docker images and application deployment environments."
+  },
+  {
+    "requirement": "Experience building APIs",
+    "positive_evidence": "Implemented endpoints with Flask and FastAPI for application services.",
+    "negative_evidence": "Designed charts and visual reports in Tableau."
+  },
+  {
+    "requirement": "Understand model evaluation metrics",
+    "positive_evidence": "Evaluated classifiers using precision, recall, F1-score and confusion matrices.",
+    "negative_evidence": "Built page layouts with HTML and responsive CSS."
+  }
+]
